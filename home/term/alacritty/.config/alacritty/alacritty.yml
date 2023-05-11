@@ -1,0 +1,40 @@
+# Terminal Emulator Settings
+window:
+  padding:
+    x: 30
+    y: 30
+  scrolling:
+    history: 15
+
+# Setting zsh as the default shell
+shell:
+    program: /bin/bash
+
+# Font
+font:
+  normal:
+    family: Iosevka Nerd Font
+    style: Medium
+
+  bold:
+    family: Iosevka Nerd Font
+    style: Bold
+
+  italic:
+    family: Iosevka Nerd Font
+    style: Italic
+
+  bold_italic:
+    family: Iosevka Nerd Font
+    style: Bold Italic
+
+  size: 8
+
+cursor:
+  style: beam
+  blink: true
+  thickness: 0.20
+  unfocused_hollow: false 
+
+import:
+  - ~/.config/alacritty/themes/theme.yml

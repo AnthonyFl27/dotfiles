@@ -1,0 +1,46 @@
+8188eu-dkms v4.3.0.8_13968-17
+gotop 
+pfetch 
+pipes.sh 
+sp 
+spotify 1:1.2.9.743-1
+ncspot
+discord
+telegram-desktop
+sublime-text-4 
+ttf-font-awesome-5 
+ttf-ms-fonts 
+typioca
+speedtest-cli
+yay
+
+alacritty
+kitty 
+sxhkd
+picom
+ranger
+zsh
+zathura 
+zathura-pdf-poppler 
+qbittorrent
+putty
+nitrogen
+bluez
+bluez-utils
+bluez-runit
+vim
+newsboat
+weechat
+unzip
+tree
+w3m
+sof-firmware
+
+flatpak - steam, libreoffice, protonvpn
+
+
+
+rkhunter
+lynis
+nmap
+
